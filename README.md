@@ -7,3 +7,9 @@
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through GitHub but i'll share it with blogs in the comming months
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/mmasinde)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masinde70)](https://github.com/anuraghazra/github-readme-stats)
