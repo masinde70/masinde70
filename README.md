@@ -1,5 +1,8 @@
 ### Hi there. I'm Masinde 👋
 
+I am a Computer Engineer. I studied masters of computer engineering in Åbo Akademi University. I have been working as an
+assistant researcher at Åbo Akademi University. I am interested and curious to learn new technologies which can add value
+to life. This is all done through research and hands on. 
 
 - :zap: I love Engineering Mathematics, programming(C/C++, Python, CUDA), data science,DSP, Embedded systems programming, Industrial Analytics and teaching
 - 🌱 I’m exploring Machine Learning algorithms  
