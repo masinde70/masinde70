@@ -1,7 +1,7 @@
 ### Hi there. I'm Masinde 👋
 
 
-- :zap: I love Engineering Mathematics, programming(C/C++, Python, CUDA), data science, Embedded systems programming, Industrial Analytics and teaching
+- :zap: I love Engineering Mathematics, programming(C/C++, Python, CUDA), data science,DSP, Embedded systems programming, Industrial Analytics and teaching
 - 🌱 I’m exploring Machine Learning algorithms  
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through GitHub but i'll share it with blogs in the comming months
 - 📫 How to find me: 
