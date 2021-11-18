@@ -5,7 +5,7 @@ assistant researcher at Åbo Akademi University. I am interested and curious to 
 to life. This is all done through research and hands on. 
 
 - :zap: I love Engineering Mathematics, programming(C/C++, Python, CUDA), data science,DSP, Embedded systems programming, Industrial Analytics and teaching
-- 🌱 I’m exploring Machine Learning algorithms  
+- 🌱 I’m exploring Machine Learning algorithms with python and Audio Programming with C++
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through GitHub but i'll share it with blogs in the comming months
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/mmasinde)
