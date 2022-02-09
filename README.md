@@ -3,7 +3,7 @@
 I am a computer engineer. I studied masters of computer engineering in Åbo Akademi University. I have been working as an
 assistant researcher at Åbo Akademi University. I am a practical problem solver and I have the ability to deliver trustworthy solutions (high-quality, robust, explainable, etc). I have the ability to pick up domain/industry understanding quickly and to have a meaningful dialogue with business stakeholders.
 
-- :zap: I love engineering mathematics, programming (C/C++, Python, CUDA), data science, DSP, embedded systems programming, Industrial Analytics and teaching
+- :zap: I love engineering mathematics, programming (C/C++, Python, CUDA), Data Science, DSP, embedded systems programming, Industrial Analytics and teaching
 - 🌱 I’m exploring machine learning algorithms with Python and AI in healthcare 
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through GitHub but I'll share it with blogs in the comming months
 - 📫 How to find me: 
