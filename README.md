@@ -18,4 +18,9 @@ assistant researcher at Åbo Akademi University. I am a practical problem solver
 
 
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masinde70)](https://github.com/masinde70/github-readme-stats)
+
+
+
+
 
