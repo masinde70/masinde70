@@ -1,7 +1,7 @@
 ### Hi there. I'm Masinde 👋
 
-I am a computer engineer. I studied masters of computer engineering in Åbo Akademi University. I have been working as an
-assistant researcher at Åbo Akademi University. I am a practical problem solver and I have the ability to deliver trustworthy solutions (high-quality, robust, explainable, etc). I have the ability to pick up domain/industry understanding quickly and to have a meaningful dialogue with business stakeholders.
+A Computer Engineer with a master's in Information Technology. With a background in education, I’m a practical problem solver who delivers trustworthy solutions (high-quality, robust, and explainable). Experienced with AI in Healthcare, specifically 2D and 3D medical images (x-ray, CT scans and MRI). I am a team worker who picks up domain/industry understanding quickly and who can have meaningful dialogues with business stakeholders.
+
 
 - :zap: I love engineering mathematics, programming (C/C++, Python, CUDA), Data Science, DSP, embedded systems programming, Industrial Analytics and teaching
 - 🌱 I’m exploring machine learning algorithms with Python and AI in healthcare 
