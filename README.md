@@ -1,6 +1,6 @@
 ### Hi there. I'm Masinde 👋
 
-A Computer Engineer with a master's in Information Technology. With a background in education, I’m a practical problem solver who delivers trustworthy solutions (high-quality, robust, and explainable). Experienced with AI in Healthcare, specifically 2D and 3D medical images (x-ray, CT scans and MRI). I am a team worker who picks up domain/industry understanding quickly and who can have meaningful dialogues with business stakeholders.
+A Computer Engineer with a master's in Information Technology. With a background in education, I’m a practical problem solver who delivers trustworthy solutions (high-quality, robust, and explainable). Experienced with AI in Healthcare, specifically 2D and 3D medical images (x-ray, CT scans and MRI) as well as EHR codes. I am a team worker who picks up domain/industry understanding quickly and who can have meaningful dialogues with business stakeholders.
 
 
 - :zap: I love engineering mathematics, programming (C/C++, Python, CUDA), Data Science, DSP, embedded systems programming, Industrial Analytics and teaching
